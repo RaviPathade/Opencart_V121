@@ -8,9 +8,34 @@
 <test  name="OpenCart Tests">
 <parameter name="browser" value="chrome"/>
 <classes>
-  <class  name="testCases.TC_001_AccountRegistration"/> 
-<class name="testCases.TC_002_Login"/> 
-<!--<class name="testCases.TC_003_LoginDDT"/> -->
+ <!--<class name="testCases.TC_001_AccountRegistration"/>  
+     <class name="testCases.TC_002_Login"/> -->
+<!-- <class name="testCases.TC_003_LoginDDT"/> -->
+<!-- <class name="testCases.TC_004_Search"/> -->
+<!-- <class name="testCases.TC_005_AddToCart"/>  -->
+<!-- <class name="testCases.TC_006_ProductCompare"/>  -->
+<!-- <class name="testCases.TC_007_WishList"/> -->
+<!-- <class name="testCases.TC_008_ProductDisplayPage"/>  -->
+<!-- <class name="testCases.TC_009_ForgotPassword"/> -->
+<!-- <class name="testCases.TC_0010_ShoppingCart"/>  -->
+<!-- <class name="testCases.TC_0011_CheckOut"/>  -->
+<!-- <class name="testCases.TC_0012_MyAccount"/>  --> 
+<!-- <class name="testCases.TC_0013_MyAccountInformation"/>  -->
+<!-- <class name="testCases.TC_0014_ChangePassword"/>  -->
+<!-- <class name="testCases.TC_0015_AddressBook"/>  -->
+<!-- <class name="testCases.TC_0016_OrderHistory"/> -->
+<!-- <class name="testCases.TC_0017_RewardPoints"/>  -->
+<!-- <class name="testCases.TC_0018_Returns"/>  --> 
+<!-- <class name="testCases.TC_0019_Transections"/> -->
+<!-- <class name="testCases.TC_0020_RecurringPayments"/> -->
+<!-- <class name="testCases.TC_0021_NewsLetter"/> --> 
+<!-- <class name="testCases.TC_0022_Affiliate"/> --> 
+<!-- <class name="testCases.TC_0023_ContactUs"/> -->
+<!-- <class name="testCases.TC_0023_ContactUs"/>  --> 
+<!-- <class name="testCases.TC_0024_SpecialOffers"/> --> 
+<!-- <class name="testCases.TC_0025_HeaderFooterMenuOptions"/> --> 
+<!-- <class name="testCases.TC_0026_GiftCertificates"/> -->
+     <class name="testCases.TC_0027_Currency"/>
 
 </classes>
 </test>

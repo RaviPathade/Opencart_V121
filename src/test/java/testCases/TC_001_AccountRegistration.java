@@ -57,7 +57,7 @@ public class TC_001_AccountRegistration extends BaseClass
     	{
     		logger.error("Account Registration Failed");
     		captureScreen(driver,"test_account_Registration"); //capture screenshots
-    		Assert.assertTrue(false);
+    		Assert.assertTrue(false); 
     	}
      }
     	 catch(Exception e)
